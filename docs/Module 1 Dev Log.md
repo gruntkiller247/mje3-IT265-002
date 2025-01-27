@@ -1,47 +1,39 @@
 <
 # mje3-IT265-002
 <!-- Markdown Docs:   https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Matthew Einbinder
+### Module: 1
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [01/27/2025]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [+] Relearn how to use GitHub
+- [+] Learn how to use GitHub Pages
 -->
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - <!--I have learend how to manipulate what page I am on and how to make pages in GitHub-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--My poor naming schemes coupled with a poor reading comphrension of GitHub tutorials lead to difficulty in renaming and reorganizing files-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--Reread GitHub documentation for 1 hour until I realized I was reading the wrong stuff-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--I am aware of how to edit files, move files, and created GitHub Pages-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
+-  <!--I hope I can improve in my use of GitHub in the future as it is more useful then using Google Drive synch feature to save and manipulate code within a group-->
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--Reading the books on time for the class-->
 >
