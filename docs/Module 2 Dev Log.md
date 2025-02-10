@@ -6,10 +6,10 @@
 ### Date: [2/10/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Do my homework correctly
+Example Template (include the brackets to make a checklist, fill them in as appropriate
+ [ ] Do my homework correctly
   [ ] Learn how a game is thought up fundamentally. 
--->
+
 
 #### Progress
 - **What I accomplished**:
