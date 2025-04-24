@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hello from GitHub Pages</title>
+</head>
+
+<body>
+    <h1> Hello, world!</h1>
+    <!-- <p>This page is hosted on GitHub Pages.</p> -->
+
+    <!-- Write your comments here -->
+    <p id ="test"></p>
+    <script>
+        
+        let thing = "I am a word!";
+        
+        document.getElementById("test").innerHTML ="<h3>" + thing + "</h3>";
+        console.log("The Word!: " + thing);
+    </script>
+
+    
+    <canvas id="myCanvas" width="200" height="100"style="border:1px solid #000000;"></canvas>
+    <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.moveTo(0, 0);
+        ctx.lineTo(200, 100);
+        ctx.stroke();
+    </script> 
+
+
+</body>
+
+</html>
