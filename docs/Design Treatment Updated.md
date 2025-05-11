@@ -22,3 +22,7 @@ cards within.
 
 There were not many conceptual changes from the physical to the digital prototype, mainly the design goal of functionality rather than a true 1 to 1
 adaptation due to conflicting school schedules and an extreme dislike of Unity for card games.
+
+Link to the Video: https://drive.google.com/file/d/1Dzc0fp0Q0_CPS5Bc9aiUMNJViEmCDOQ8/view?usp=sharing
+
+Link to the Itch.Io Page: https://mje3.itch.io/farm 
